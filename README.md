@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monijoon
-- 👀 I’m interested in making better use of mt brain
+- 👀 I’m interested in making better use of my brain
 - 🌱 I’m currently learning cse
 
 <!---
